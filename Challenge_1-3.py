@@ -1,4 +1,4 @@
-# (1)
+# (1) turtle graphics: 정삼각형
 import turtle
 t = turtle.Pen()
 t.shape("turtle")
@@ -10,7 +10,7 @@ t.fd(100)
 t.clear()   # 모든 선 없애기
 t.ht()  # 거북이 없애기
 
-# (2)
+# (2) 정사각형
 import turtle
 t = turtle.Pen()
 t.shape("turtle")
